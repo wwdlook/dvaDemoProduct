@@ -1,0 +1,8 @@
+
+.am-list-item {
+    background-color: #C0E3FD;
+    
+}
+.am-list-item .am-list-line-multiple {
+    word-wrap:break-word;
+}
